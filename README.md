@@ -1,3 +1,3 @@
 # photomendy-journal
 
-no details yet
+Journal for recording the progress of building photomendy
