@@ -1,0 +1,5 @@
+<!--
+Taken from https://agrimprasad.com/post/hugo-goldmark-markdown/
+How to Open Link in New Tab with Hugo's new Goldmark Markdown Renderer
+-->
+<a href="{{ .Destination | safeURL }}"{{ with .Title}} title="{{ . }}"{{ end }}{{ if strings.HasPrefix .Destination "http" }} target="_blank"{{ end }}>{{ .Text }}</a>
