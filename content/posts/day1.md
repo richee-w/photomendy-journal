@@ -4,7 +4,7 @@ date: 2022-03-05T17:09:25Z
 draft: true
 ---
 
-## The journey begins
+## The journey begins.
 
 Welcome to my my first entry in this journal. As of writing, this idea was born a month or two ago.  Simple idea, provide image editing services for anyone who needs it.  Photographers, artists and entrepreneurs are the first type of people I have thought of and I feel there are probably many other industries that may benefit from such services.  
 

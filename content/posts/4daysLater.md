@@ -3,7 +3,7 @@ title: "Day 4"
 date: 2022-03-09T08:51:55Z
 draft: true
 ---
-## Struggling is to be expected
+## Struggling is to be expected, especially if you are feeling unwell.
 
 I'm struggling right now, I've have done very little since Day 1 due to feeling unwell. I was sleep deprived and then I got man flu. I did a Covid test, at least it was not that.  Yesterday I was feeling so unwell, I went to bed at 5pm. I was restless and got up a couple of times before finally getting to sleep around 11pm.  
 
@@ -26,7 +26,7 @@ I have been looking at other websites in the last couple of days but my energy l
 * Retouching Service page - Clear and simple "How it works" section. **Good idea I can use**
 * There are more good ideas I can use in this website.  
 
-[photographsforever](https://www.photographsforever.co.uk/photo-restoration-services/)
+[Photographs forever](https://www.photographsforever.co.uk/photo-restoration-services/)
 * Looks simple and proffesional at first glance.
 * Wording looks very good, again at first glance. 
 * Services well laid out.
