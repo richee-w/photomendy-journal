@@ -31,4 +31,4 @@ I have been looking at other websites in the last couple of days but my energy l
 * Wording looks very good, again at first glance. 
 * Services well laid out.
 * Use this to inspire my ideas. 
-* Simple and straight forward layout, serious contender for main inspiration for my own website.
+* Simple and straight forward layout, it's a shame that it's not too good on a mobile device. Looks as though the responsive aspects have been poorly implemented.  **I can do better.**
