@@ -5,11 +5,11 @@ draft: true
 ---
 ## Struggling is to be expected
 
-I'm struggling right now, I've have hardly done anything since Day 1 due to feeling unwell. I was sleep deprived and then I got man flu. I did a Covid test, at least it was not that.  Yesterday I was feeling so unwell, I went to bed at 5pm. I was restless and got up a couple of times before finally getting to sleep around 11pm.  
+I'm struggling right now, I've have done very little since Day 1 due to feeling unwell. I was sleep deprived and then I got man flu. I did a Covid test, at least it was not that.  Yesterday I was feeling so unwell, I went to bed at 5pm. I was restless and got up a couple of times before finally getting to sleep around 11pm.  
 
 Out of bed around 5.15am  I'm feeling a little better today, but still slightly "man flu".
 
-I have been looking at other websites in the last couple of days but my energy levels only allowed me to skim read. At least I have bookmarked a few pages for later digestion. Here's what I've got so far.
+I have been looking at other websites in the last couple of days but my energy levels only allowed me to skim read. At least I have bookmarked a few pages for later digestion. Here's some of what I've got so far.
 
 [Teenie Wee](https://teeniewee.com/)
 
@@ -26,4 +26,9 @@ I have been looking at other websites in the last couple of days but my energy l
 * Retouching Service page - Clear and simple "How it works" section. **Good idea I can use**
 * There are more good ideas I can use in this website.  
 
-I have more links somewhere but I can't find them right now and my energy levels are falling fast, so time to rest.  In regards to doubting myself I feel much better now that I've written down my thoughts.  It helps to clarify them when I can see my thoughts clearly in writing in front of me.
+[photographsforever](https://www.photographsforever.co.uk/photo-restoration-services/)
+* Looks simple and proffesional at first glance.
+* Wording looks very good, again at first glance. 
+* Services well laid out.
+* Use this to inspire my ideas. 
+* Simple and straight forward layout, serious contender for main inspiration for my own website.
