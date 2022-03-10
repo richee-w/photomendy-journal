@@ -5,7 +5,7 @@ draft: false
 ---
 ## Struggling is to be expected, especially if you are feeling unwell.
 
-I'm struggling right now, I've have done very little since Day 1 due to feeling unwell. I was sleep deprived and then I got man flu. I did a Covid test, at least it was not that.  Yesterday I was feeling so unwell, I went to bed at 5pm. I was restless and got up a couple of times before finally getting to sleep around 11pm.  
+I'm struggling right now, little has been done since Day 1 due to feeling unwell. I was sleep deprived and then I got man flu. I did a Covid test, at least it was not that.  Yesterday I was feeling so unwell, I went to bed at 5pm. I was restless and got up a couple of times before finally getting to sleep around 11pm.  
 
 Out of bed around 5.15am  I'm feeling a little better today, but still slightly "man flu".
 
@@ -32,3 +32,5 @@ I have been looking at other websites in the last couple of days but my energy l
 * Services well laid out.
 * Use this to inspire my ideas. 
 * Simple and straight forward layout, it's a shame that it's not too good on a mobile device. Looks as though the responsive aspects have been poorly implemented.  **I can do better.**
+
+Edit: 10/03/2022:  Feeling much better today and looking back at this now? Not bad considering I was a mess.
