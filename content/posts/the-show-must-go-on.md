@@ -13,7 +13,7 @@ I've also noticed a lack of frustration when working on a project with no partic
 
 The next step is to make the website, for which my first thought was to have it done over a weekend.  This simply did not happen and I have been swapping and changing my mind over how to approach this with getting nothing done.  The initial approach was to use hugo, a static website builder, but there is a learning curve to this.  After speaking with Andrew, it appeared wiser to simply go with what I know and use Wordpress to speed up the process of making the website.
 
-I got started with Wordpress but was hating every moment of working with this bloated solution, it was a drag.  I changed my mind to build a static site by using straight HTML and CSS but I go nowhere fast, my skills are very rusty in this department.
+I got started with Wordpress but was hating every moment of working with this bloated solution, it was a drag.  I changed my mind to build a static site by using straight HTML and CSS but I got nowhere fast, my skills are very rusty in this department.
 
 I’ve now decided I am going back to my initial solution and just do the learning curve. I am going to use the hugo static web builder as I believe the benefits outweigh the disadvantages.  The main disadvantage being the time it takes to get through the learning curve. The benefits are as follows.
 
@@ -21,6 +21,8 @@ I’ve now decided I am going back to my initial solution and just do the learni
 * It’s something I’ve wanted to learn for over a year
 * The new skill could be an earner in the future
 * Learning as I go with a tangible product made when done
+* Much leaner than Wordpress which is overkill for my type of website
+
 
 I’m going to allow myself 3 months to do this.  It seems a very long time to get a simple website up and running, but I believe it will be worth it.  Even though I’m not the best web developer (I feel a total imposter calling myself a “web developer”) I believe I can make a better looking website than my competitors.
 
