@@ -1,4 +1,4 @@
-baseurl      = "localhost"
-title        = "PhotoMendy"
+baseurl      = "http://static.phatbloke.lan/"
+title        = "PhotoMendy, The Journal"
 languageCode = "en-gb"
 theme        = "ananke"

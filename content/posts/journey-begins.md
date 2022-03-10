@@ -1,7 +1,7 @@
 ---
 title: "Day 1"
 date: 2022-03-05T17:09:25Z
-draft: true
+draft: false
 ---
 
 ## The journey begins.

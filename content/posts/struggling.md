@@ -1,7 +1,7 @@
 ---
 title: "Day 4"
 date: 2022-03-09T08:51:55Z
-draft: true
+draft: false
 ---
 ## Struggling is to be expected, especially if you are feeling unwell.
 
